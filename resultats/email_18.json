@@ -1,0 +1,42 @@
+{
+  "date_livraison": "2026-11-19",
+  "lignes": [
+    {
+      "texte_original": "1 silicone noir",
+      "reference": "SIL-NOI",
+      "quantite": 1,
+      "confiance": 0.9,
+      "remarque": "Seule référence du catalogue correspondant à un silicone noir (cartouche 310 ml)."
+    },
+    {
+      "texte_original": "1 mètre ruban 5 m",
+      "reference": "OUT-MET5",
+      "quantite": 1,
+      "confiance": 0.95,
+      "remarque": "Mètre ruban 5 m, correspondance directe avec le catalogue."
+    },
+    {
+      "texte_original": "5 paires gants anti-coupure T9",
+      "reference": "GAN-COU-T9",
+      "quantite": 5,
+      "confiance": 0.95,
+      "remarque": "Gants anti-coupure niveau 5, taille 9, vendus à la paire."
+    },
+    {
+      "texte_original": "5 boites vis CHC M5x25",
+      "reference": "CHC-88-M5x25",
+      "quantite": 5,
+      "confiance": 0.95,
+      "remarque": "CHC désigne une vis à tête cylindrique six pans creux ; M5x25 est le seul format correspondant. Vendue par boîte de 200."
+    },
+    {
+      "texte_original": "3 boites vis agglo 6 x 50",
+      "reference": "VBT-6x50",
+      "quantite": 3,
+      "confiance": 0.9,
+      "remarque": "Vis agglo désigne une vis à bois ; seule référence 6x50 au catalogue (vis à bois tête fraisée Torx, boîte de 200)."
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

@@ -1,0 +1,42 @@
+{
+  "date_livraison": null,
+  "lignes": [
+    {
+      "texte_original": "3 x RON-A2-M16",
+      "reference": "RON-A2-M16",
+      "quantite": 3,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "7 x OUT-PIN",
+      "reference": "OUT-PIN",
+      "quantite": 7,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "12 x GAN-SOU-T11",
+      "reference": "GAN-SOU-T11",
+      "quantite": 12,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "6 x GAN-SOU-T10",
+      "reference": "GAN-SOU-T10",
+      "quantite": 6,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "4 x OUT-MAR",
+      "reference": "OUT-MAR",
+      "quantite": 4,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

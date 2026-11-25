@@ -1,0 +1,28 @@
+{
+  "date_livraison": "2026-11-09",
+  "lignes": [
+    {
+      "texte_original": "10 x CHE-EXP-12x120",
+      "reference": "CHE-EXP-12x120",
+      "quantite": 10,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "3 x CAS-ORA",
+      "reference": "CAS-ORA",
+      "quantite": 3,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "7 x FOR-BET-6",
+      "reference": "FOR-BET-6",
+      "quantite": 7,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

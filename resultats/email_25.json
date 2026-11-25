@@ -1,0 +1,28 @@
+{
+  "date_livraison": "2026-11-18",
+  "lignes": [
+    {
+      "texte_original": "ECR-A2-M8 | Écrou hexagonal inox A2 M8 | 7",
+      "reference": "ECR-A2-M8",
+      "quantite": 7,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "OUT-SER | Serre-joint 300 mm | 4",
+      "reference": "OUT-SER",
+      "quantite": 4,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "FOR-BET-6 | Foret béton SDS-plus Ø6 mm | 6",
+      "reference": "FOR-BET-6",
+      "quantite": 6,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

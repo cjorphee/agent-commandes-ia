@@ -1,0 +1,17 @@
+De: Olivier Marchand <olivier@marchand-elec.fr>
+À: commandes@normatech-distribution.fr
+Date: mardi 17 novembre 2026 07:31
+Objet: Commande Électricité Marchand et Cie
+
+Bonjour,
+
+Ci-dessous notre commande, à livrer demain :
+
+Réf        | Désignation                 | Qté
+-----------|-----------------------------|----
+ECR-A2-M8  | Écrou hexagonal inox A2 M8  | 7
+OUT-SER    | Serre-joint 300 mm          | 4
+FOR-BET-6  | Foret béton SDS-plus Ø6 mm  | 6
+
+Merci,
+Olivier

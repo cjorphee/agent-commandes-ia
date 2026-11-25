@@ -1,0 +1,42 @@
+{
+  "date_livraison": "2026-11-16",
+  "lignes": [
+    {
+      "texte_original": "vis inox tête hexa M6x50 : 3 boîtes",
+      "reference": "VTH-A2-M6x50",
+      "quantite": 3,
+      "confiance": 0.9,
+      "remarque": "TH désigne une tête hexagonale. Seule référence inox A2 tête hexagonale en M6x50, conditionnée en boîte de 100."
+    },
+    {
+      "texte_original": "disques à tronçonner acier 125 : 9 boîtes",
+      "reference": "DIS-ACI-125",
+      "quantite": 9,
+      "confiance": 0.9,
+      "remarque": "Disque à tronçonner acier Ø125 mm, boîte de 25. Quantité exprimée en boîtes, unité de vente du catalogue."
+    },
+    {
+      "texte_original": "vis TH inox 8x80 : 1 boîte",
+      "reference": "VTH-A2-M8x80",
+      "quantite": 1,
+      "confiance": 0.9,
+      "remarque": "TH désigne une tête hexagonale. Seule référence inox A2 tête hexagonale en M8x80, boîte de 100."
+    },
+    {
+      "texte_original": "foret HSS 6 mm : 8 pièces",
+      "reference": "FOR-HSS-6",
+      "quantite": 8,
+      "confiance": 0.9,
+      "remarque": "Foret HSS métaux Ø6 mm, vendu à la pièce."
+    },
+    {
+      "texte_original": "lunettes fumées : 1 pièce",
+      "reference": "LUN-FUM",
+      "quantite": 1,
+      "confiance": 0.9,
+      "remarque": "Lunettes de protection fumées, vendues à la pièce."
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

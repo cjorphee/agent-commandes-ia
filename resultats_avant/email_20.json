@@ -1,0 +1,28 @@
+{
+  "date_livraison": "2026-11-16",
+  "lignes": [
+    {
+      "texte_original": "7 boites disques 125 acier",
+      "reference": "DIS-ACI-125",
+      "quantite": 7,
+      "confiance": 0.9,
+      "remarque": null
+    },
+    {
+      "texte_original": "7 boites écrous zingués M4",
+      "reference": "ECR-ZN-M4",
+      "quantite": 7,
+      "confiance": 0.9,
+      "remarque": null
+    },
+    {
+      "texte_original": "8 foret à béton 8 mm",
+      "reference": "FOR-BET-8",
+      "quantite": 8,
+      "confiance": 0.9,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

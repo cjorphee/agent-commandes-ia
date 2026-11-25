@@ -1,0 +1,19 @@
+De: Karim Benali <karim@amr-mecanique.fr>
+À: commandes@normatech-distribution.fr
+Date: lundi 2 novembre 2026 15:46
+Objet: Demande de livraison
+
+Bonjour,
+
+Voici ma commande, pour le 06/11 :
+
+EQU-A2-40 — quantité : 7
+CHC-88-M4x12 — quantité : 1
+CHC-88-M10x30 — quantité : 3
+VTH-A2-M6x20 — quantité : 2
+FOR-BET-10 — quantité : 5
+
+Bien cordialement,
+Karim
+Atelier Mécanique Rouennais
+Tél. 02 35 68 91 68

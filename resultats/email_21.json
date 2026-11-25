@@ -1,0 +1,28 @@
+{
+  "date_livraison": "2026-11-20",
+  "lignes": [
+    {
+      "texte_original": "vis CHC M5x30 : 3 boîtes",
+      "reference": "CHC-88-M5x30",
+      "quantite": 3,
+      "confiance": 0.9,
+      "remarque": "CHC désigne une vis à tête cylindrique six pans creux ; seule référence du catalogue en M5x30."
+    },
+    {
+      "texte_original": "serre-joint 300 : 4 pièces",
+      "reference": "OUT-SER",
+      "quantite": 4,
+      "confiance": 0.9,
+      "remarque": "Serre-joint 300 mm, seul produit du catalogue correspondant à cette désignation."
+    },
+    {
+      "texte_original": "vis CHC M6x20 : 7 boîtes",
+      "reference": "CHC-88-M6x20",
+      "quantite": 7,
+      "confiance": 0.9,
+      "remarque": "CHC désigne une vis à tête cylindrique six pans creux ; seule référence du catalogue en M6x20."
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

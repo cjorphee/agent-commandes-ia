@@ -1,0 +1,21 @@
+{
+  "date_livraison": "2026-11-24",
+  "lignes": [
+    {
+      "texte_original": "CHC-88-M5x40 | Vis à tête cylindrique six pans creux acier 8.8 zingué M5x40 | 1",
+      "reference": "CHC-88-M5x40",
+      "quantite": 1,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "CHS-S3-P41 | Chaussures de sécurité S3 pointure 41 | 1",
+      "reference": "CHS-S3-P41",
+      "quantite": 1,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

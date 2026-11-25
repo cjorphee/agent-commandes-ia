@@ -1,0 +1,28 @@
+{
+  "date_livraison": null,
+  "lignes": [
+    {
+      "texte_original": "vis agglo 4 x 30 : 3 boîtes",
+      "reference": "VBT-4x30",
+      "quantite": 3,
+      "confiance": 0.6,
+      "remarque": "Correspondance probable avec la vis à bois Torx 4x30 du catalogue (« vis agglo » n'y figure pas). Quantité exprimée en boîtes de 200."
+    },
+    {
+      "texte_original": "équerres inox 100 : 8 boîtes",
+      "reference": "EQU-A2-100",
+      "quantite": 8,
+      "confiance": 0.95,
+      "remarque": null
+    },
+    {
+      "texte_original": "et aussi des gants nitrile taille 9",
+      "reference": "GAN-NIT-T9",
+      "quantite": null,
+      "confiance": 0.9,
+      "remarque": "Quantité absente de l'email."
+    }
+  ],
+  "a_valider": true,
+  "motif": "Quantité manquante pour les gants nitrile taille 9 (GAN-NIT-T9). Vérifier aussi la correspondance « vis agglo 4 x 30 » avec VBT-4x30, qui est une déduction."
+}

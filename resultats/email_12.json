@@ -1,0 +1,28 @@
+{
+  "date_livraison": "2026-11-13",
+  "lignes": [
+    {
+      "texte_original": "5 paires GAN-SOU-T8 (Gants de protection soudeur cuir croûte taille 8)",
+      "reference": "GAN-SOU-T8",
+      "quantite": 5,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "5 pièces FOR-HSS-10 (Foret HSS métaux Ø10 mm)",
+      "reference": "FOR-HSS-10",
+      "quantite": 5,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "3 boîtes VTH-A2-M6x40 (Vis tête hexagonale inox A2 M6x40)",
+      "reference": "VTH-A2-M6x40",
+      "quantite": 3,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

@@ -1,0 +1,31 @@
+fichier,code_client,client,date_email,date_livraison,a_valider,motif_a_valider
+email_01.txt,C013,Carrosserie Bertin,2026-10-28,2026-11-03,non,
+email_02.txt,C007,Plomberie Chauffage Leroy,2026-10-28,2026-11-02,non,
+email_03.txt,C012,Société Normande de Levage,2026-10-28,,non,
+email_04.txt,C015,Peinture et Décor Hamel,2026-10-30,,non,
+email_05.txt,C005,Atelier Mécanique Rouennais,2026-11-02,2026-11-06,non,
+email_06.txt,C013,Carrosserie Bertin,2026-11-03,2026-11-06,non,
+email_07.txt,C001,Menuiserie Duval,2026-11-03,2026-11-09,non,
+email_08.txt,C003,Maintenance Industrielle Seine,2026-11-04,,non,
+email_09.txt,C004,Bouchard BTP,2026-11-04,2026-11-05,non,
+email_10.txt,C008,Serrurerie Métallerie Vasseur,2026-11-05,2026-11-09,non,
+email_11.txt,C006,Charpente Thibault,2026-11-06,2026-11-12,non,
+email_12.txt,C002,Garage Lemoine et Fils,2026-11-06,2026-11-13,non,
+email_13.txt,C009,Entreprise Générale Delaunay,2026-11-09,2026-11-16,non,
+email_14.txt,C011,Chaudronnerie du Port,2026-11-09,2026-11-13,non,
+email_15.txt,C006,Charpente Thibault,2026-11-09,2026-11-18,non,
+email_16.txt,C005,Atelier Mécanique Rouennais,2026-11-09,2026-11-16,non,
+email_17.txt,C010,Électricité Marchand et Cie,2026-11-09,2026-11-10,non,
+email_18.txt,C007,Plomberie Chauffage Leroy,2026-11-12,2026-11-19,non,
+email_19.txt,C008,Serrurerie Métallerie Vasseur,2026-11-12,2026-11-16,non,
+email_20.txt,C004,Bouchard BTP,2026-11-13,2026-11-16,non,
+email_21.txt,C002,Garage Lemoine et Fils,2026-11-16,2026-11-20,non,
+email_22.txt,C012,Société Normande de Levage,2026-11-16,2026-11-20,non,
+email_23.txt,C011,Chaudronnerie du Port,2026-11-17,2026-11-25,non,
+email_24.txt,C014,Agri-Services Caux,2026-11-17,2026-11-24,non,
+email_25.txt,C010,Électricité Marchand et Cie,2026-11-17,2026-11-18,non,
+email_26.txt,C014,Agri-Services Caux,2026-11-18,2026-11-24,non,
+email_27.txt,C001,Menuiserie Duval,2026-11-18,,oui,Quantité manquante : gants nitrile taille 9 (GAN-NIT-T9)
+email_28.txt,C003,Maintenance Industrielle Seine,2026-11-18,2026-11-23,oui,Article absent du catalogue : tendeurs à lanterne M12
+email_29.txt,C015,Peinture et Décor Hamel,2026-11-19,2026-11-20,oui,Commande non détaillée : « même commande que la dernière fois »
+email_30.txt,C009,Entreprise Générale Delaunay,2026-11-20,2026-11-23,oui,"Référence ambiguë : écrous M10 (zingué ECR-ZN-M10 ou inox ECR-A2-M10 ?), 6 boîtes"

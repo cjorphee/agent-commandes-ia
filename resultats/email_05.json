@@ -1,0 +1,42 @@
+{
+  "date_livraison": "2026-11-06",
+  "lignes": [
+    {
+      "texte_original": "EQU-A2-40 — quantité : 7",
+      "reference": "EQU-A2-40",
+      "quantite": 7,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "CHC-88-M4x12 — quantité : 1",
+      "reference": "CHC-88-M4x12",
+      "quantite": 1,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "CHC-88-M10x30 — quantité : 3",
+      "reference": "CHC-88-M10x30",
+      "quantite": 3,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "VTH-A2-M6x20 — quantité : 2",
+      "reference": "VTH-A2-M6x20",
+      "quantite": 2,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "FOR-BET-10 — quantité : 5",
+      "reference": "FOR-BET-10",
+      "quantite": 5,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

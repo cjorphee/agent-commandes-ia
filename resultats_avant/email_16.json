@@ -1,0 +1,42 @@
+{
+  "date_livraison": "2026-11-16",
+  "lignes": [
+    {
+      "texte_original": "8 boites vis six pans creux 10x30",
+      "reference": "CHC-88-M10x30",
+      "quantite": 8,
+      "confiance": 0.8,
+      "remarque": "Référence déduite : vis à tête cylindrique six pans creux M10x30 (boîte de 100)."
+    },
+    {
+      "texte_original": "2 mètre ruban 5 m",
+      "reference": "OUT-MET5",
+      "quantite": 2,
+      "confiance": 0.9,
+      "remarque": "Mètre ruban 5 m, unité pièce."
+    },
+    {
+      "texte_original": "9 boites vis agglo 6 x 60",
+      "reference": "VBT-6x60",
+      "quantite": 9,
+      "confiance": 0.6,
+      "remarque": "« Vis agglo » interprétée comme vis à bois tête fraisée Torx 6x60 (boîte de 200). Référence déduite, à confirmer."
+    },
+    {
+      "texte_original": "9 boites rondelles M4 zinguées",
+      "reference": "RON-ZN-M4",
+      "quantite": 9,
+      "confiance": 0.9,
+      "remarque": "Rondelle plate zinguée M4, boîte de 200."
+    },
+    {
+      "texte_original": "10 boites rondelles M10 zinguées",
+      "reference": "RON-ZN-M10",
+      "quantite": 10,
+      "confiance": 0.9,
+      "remarque": "Rondelle plate zinguée M10, boîte de 200."
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

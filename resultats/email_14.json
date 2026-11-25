@@ -1,0 +1,42 @@
+{
+  "date_livraison": "2026-11-13",
+  "lignes": [
+    {
+      "texte_original": "9 boites vis CHC M4x12",
+      "reference": "CHC-88-M4x12",
+      "quantite": 9,
+      "confiance": 0.9,
+      "remarque": "CHC = vis à tête cylindrique six pans creux ; seule référence correspondant au M4x12."
+    },
+    {
+      "texte_original": "10 boites écrous M6 zingués",
+      "reference": "ECR-ZN-M6",
+      "quantite": 10,
+      "confiance": 0.9,
+      "remarque": "Écrou hexagonal acier zingué M6 ; seule référence zinguée correspondant au M6."
+    },
+    {
+      "texte_original": "9 boites vis six pans creux 10x30",
+      "reference": "CHC-88-M10x30",
+      "quantite": 9,
+      "confiance": 0.9,
+      "remarque": "Vis six pans creux = CHC ; le diamètre 10 et la longueur 30 correspondent à M10x30 en acier 8.8 zingué."
+    },
+    {
+      "texte_original": "3 boites vis inox tête hexa M12x50",
+      "reference": "VTH-A2-M12x50",
+      "quantite": 3,
+      "confiance": 0.9,
+      "remarque": "Tête hexagonale = TH ; inox A2 M12x50, seule référence correspondante."
+    },
+    {
+      "texte_original": "2 boites disques à tronçonner acier 115",
+      "reference": "DIS-ACI-115",
+      "quantite": 2,
+      "confiance": 0.9,
+      "remarque": "Disque à tronçonner acier Ø115 mm ; seule référence correspondante."
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

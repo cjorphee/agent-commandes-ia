@@ -1,0 +1,28 @@
+{
+  "date_livraison": null,
+  "lignes": [
+    {
+      "texte_original": "3 boîtes CHC-88-M4x20 (Vis à tête cylindrique six pans creux acier 8.8 zingué M4x20)",
+      "reference": "CHC-88-M4x20",
+      "quantite": 3,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "11 paires GAN-MAN-T11 (Gants de protection manutention cuir taille 11)",
+      "reference": "GAN-MAN-T11",
+      "quantite": 11,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "10 boîtes ECR-ZN-M12 (Écrou hexagonal acier zingué M12)",
+      "reference": "ECR-ZN-M12",
+      "quantite": 10,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

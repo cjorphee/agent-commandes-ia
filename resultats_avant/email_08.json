@@ -1,0 +1,56 @@
+{
+  "date_livraison": null,
+  "lignes": [
+    {
+      "texte_original": "VTH-A2-M10x40 — quantité : 7",
+      "reference": "VTH-A2-M10x40",
+      "quantite": 7,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "VTH-A2-M6x20 — quantité : 5",
+      "reference": "VTH-A2-M6x20",
+      "quantite": 5,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "VTH-A2-M10x60 — quantité : 10",
+      "reference": "VTH-A2-M10x60",
+      "quantite": 10,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "ECR-A2-M5 — quantité : 5",
+      "reference": "ECR-A2-M5",
+      "quantite": 5,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "CAS-ORA — quantité : 2",
+      "reference": "CAS-ORA",
+      "quantite": 2,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "RON-A2-M5 — quantité : 6",
+      "reference": "RON-A2-M5",
+      "quantite": 6,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "VTH-A2-M8x50 — quantité : 8",
+      "reference": "VTH-A2-M8x50",
+      "quantite": 8,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

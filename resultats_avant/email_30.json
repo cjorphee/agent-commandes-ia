@@ -1,0 +1,28 @@
+{
+  "date_livraison": "2026-11-23",
+  "lignes": [
+    {
+      "texte_original": "chaussures de sécurité S3 pointure 40 : 8 paires",
+      "reference": "CHS-S3-P40",
+      "quantite": 8,
+      "confiance": 0.95,
+      "remarque": null
+    },
+    {
+      "texte_original": "chevilles à expansion 8x60 : 5 boîtes",
+      "reference": "CHE-EXP-8x60",
+      "quantite": 5,
+      "confiance": 0.95,
+      "remarque": null
+    },
+    {
+      "texte_original": "écrous M10 : 6 boîtes",
+      "reference": null,
+      "quantite": 6,
+      "confiance": 0.3,
+      "remarque": "Plusieurs références possibles : ECR-ZN-M10 (acier zingué) ou ECR-A2-M10 (inox A2). Type à préciser par le client."
+    }
+  ],
+  "a_valider": true,
+  "motif": "La ligne « écrous M10 » est ambiguë : le catalogue propose un écrou hexagonal acier zingué (ECR-ZN-M10) et un écrou hexagonal inox A2 (ECR-A2-M10). Le type doit être confirmé avant saisie."
+}

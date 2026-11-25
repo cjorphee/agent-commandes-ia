@@ -1,0 +1,28 @@
+{
+  "date_livraison": "2026-11-18",
+  "lignes": [
+    {
+      "texte_original": "vis agglo 3.5 x 30 : 8 boîtes",
+      "reference": "VBT-3.5x30",
+      "quantite": 8,
+      "confiance": 0.9,
+      "remarque": "« vis agglo » désigne une vis à bois. Seule la référence VBT-3.5x30 correspond à une vis à bois 3.5 x 30 dans le catalogue."
+    },
+    {
+      "texte_original": "vis agglo 3.5 x 80 : 3 boîtes",
+      "reference": "VBT-3.5x80",
+      "quantite": 3,
+      "confiance": 0.9,
+      "remarque": "« vis agglo » désigne une vis à bois. Seule la référence VBT-3.5x80 correspond à une vis à bois 3.5 x 80 dans le catalogue."
+    },
+    {
+      "texte_original": "vis TH inox 8x50 : 1 boîte",
+      "reference": "VTH-A2-M8x50",
+      "quantite": 1,
+      "confiance": 0.9,
+      "remarque": "« TH » désigne une tête hexagonale et « inox » correspond à l'A2. Seule la référence VTH-A2-M8x50 correspond dans le catalogue."
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

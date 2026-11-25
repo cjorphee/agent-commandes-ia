@@ -1,0 +1,42 @@
+{
+  "date_livraison": "2026-11-24",
+  "lignes": [
+    {
+      "texte_original": "Équerre de fixation inox 40 mm | 5",
+      "reference": "EQU-A2-40",
+      "quantite": 5,
+      "confiance": 0.95,
+      "remarque": null
+    },
+    {
+      "texte_original": "Vis à tête cylindrique six pans creux acier 8.8 zingué M4x20 | 4",
+      "reference": "CHC-88-M4x20",
+      "quantite": 4,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "Vis à tête cylindrique six pans creux acier 8.8 zingué M10x25 | 9",
+      "reference": "CHC-88-M10x25",
+      "quantite": 9,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "Vis à tête cylindrique six pans creux acier 8.8 zingué M4x30 | 6",
+      "reference": "CHC-88-M4x30",
+      "quantite": 6,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "Vis à tête cylindrique six pans creux acier 8.8 zingué M6x40 | 5",
+      "reference": "CHC-88-M6x40",
+      "quantite": 5,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

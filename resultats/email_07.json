@@ -1,0 +1,42 @@
+{
+  "date_livraison": "2026-11-09",
+  "lignes": [
+    {
+      "texte_original": "10 x VBT-3.5x80",
+      "reference": "VBT-3.5x80",
+      "quantite": 10,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "8 x VBT-5x30",
+      "reference": "VBT-5x30",
+      "quantite": 8,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "7 x VBT-6x40",
+      "reference": "VBT-6x40",
+      "quantite": 7,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "6 x OUT-NIV100",
+      "reference": "OUT-NIV100",
+      "quantite": 6,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "3 x OUT-SCI",
+      "reference": "OUT-SCI",
+      "quantite": 3,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

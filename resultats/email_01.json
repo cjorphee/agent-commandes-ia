@@ -1,0 +1,42 @@
+{
+  "date_livraison": "2026-11-03",
+  "lignes": [
+    {
+      "texte_original": "5 x LUN-INC",
+      "reference": "LUN-INC",
+      "quantite": 5,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "2 x CAS-ROU",
+      "reference": "CAS-ROU",
+      "quantite": 2,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "5 x SIL-TRA",
+      "reference": "SIL-TRA",
+      "quantite": 5,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "7 x GAN-MAN-T9",
+      "reference": "GAN-MAN-T9",
+      "quantite": 7,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "6 x CAS-JAU",
+      "reference": "CAS-JAU",
+      "quantite": 6,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

@@ -1,0 +1,35 @@
+{
+  "date_livraison": "2026-11-20",
+  "lignes": [
+    {
+      "texte_original": "4 boites écrous zingués M6",
+      "reference": "ECR-ZN-M6",
+      "quantite": 4,
+      "confiance": 0.9,
+      "remarque": "Écrou hexagonal acier zingué M6, vendu en boîte de 200 ; quantité de 4 boîtes retenue."
+    },
+    {
+      "texte_original": "6 foret HSS 3 mm",
+      "reference": "FOR-HSS-3",
+      "quantite": 6,
+      "confiance": 0.9,
+      "remarque": "Foret HSS métaux Ø3 mm, vendu à la pièce ; quantité de 6 pièces retenue."
+    },
+    {
+      "texte_original": "8 boites vis six pans creux 4x25",
+      "reference": "CHC-88-M4x25",
+      "quantite": 8,
+      "confiance": 0.9,
+      "remarque": "CHC désigne une vis à tête cylindrique six pans creux ; seule référence du catalogue correspondant au M4x25 (acier 8.8 zingué, boîte de 200) ; quantité de 8 boîtes retenue."
+    },
+    {
+      "texte_original": "4 sachets colliers rilsan 140 noirs",
+      "reference": "CLR-140-NO",
+      "quantite": 4,
+      "confiance": 0.9,
+      "remarque": "Collier de serrage nylon 140 mm noir, vendu en sachet de 100 ; quantité de 4 sachets retenue."
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

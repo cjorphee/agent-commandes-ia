@@ -1,0 +1,42 @@
+{
+  "date_livraison": "2026-11-02",
+  "lignes": [
+    {
+      "texte_original": "GAN-MAN-T10 — quantité : 4",
+      "reference": "GAN-MAN-T10",
+      "quantite": 4,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "CLR-370-NO — quantité : 4",
+      "reference": "CLR-370-NO",
+      "quantite": 4,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "OUT-LAM18 — quantité : 4",
+      "reference": "OUT-LAM18",
+      "quantite": 4,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "EQU-A2-60 — quantité : 3",
+      "reference": "EQU-A2-60",
+      "quantite": 3,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "EQU-ZN-40 — quantité : 3",
+      "reference": "EQU-ZN-40",
+      "quantite": 3,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

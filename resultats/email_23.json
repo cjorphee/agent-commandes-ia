@@ -1,0 +1,28 @@
+{
+  "date_livraison": "2026-11-25",
+  "lignes": [
+    {
+      "texte_original": "CHS-S3-P46 | Chaussures de sécurité S3 pointure 46 | 2",
+      "reference": "CHS-S3-P46",
+      "quantite": 2,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "GAN-SOU-T11 | Gants de protection soudeur cuir croûte taille 11 | 7",
+      "reference": "GAN-SOU-T11",
+      "quantite": 7,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "CLR-140-NA | Collier de serrage nylon 140 mm naturel | 6",
+      "reference": "CLR-140-NA",
+      "quantite": 6,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

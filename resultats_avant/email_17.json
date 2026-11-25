@@ -1,0 +1,21 @@
+{
+  "date_livraison": "2026-11-10",
+  "lignes": [
+    {
+      "texte_original": "écrous zingués M4 : 4 boîtes",
+      "reference": "ECR-ZN-M4",
+      "quantite": 4,
+      "confiance": 0.9,
+      "remarque": null
+    },
+    {
+      "texte_original": "foret béton SDS 6 : 7 pièces",
+      "reference": "FOR-BET-6",
+      "quantite": 7,
+      "confiance": 0.9,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

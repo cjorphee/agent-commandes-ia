@@ -1,0 +1,28 @@
+{
+  "date_livraison": "2026-11-23",
+  "lignes": [
+    {
+      "texte_original": "rondelles inox M10 : 1 boîte",
+      "reference": "RON-A2-M10",
+      "quantite": 1,
+      "confiance": 0.9,
+      "remarque": "Rondelle plate inox A2 M10, boîte de 200. Référence déduite de la désignation."
+    },
+    {
+      "texte_original": "vis TH inox 12x50 : 4 boîtes",
+      "reference": "VTH-A2-M12x50",
+      "quantite": 4,
+      "confiance": 0.9,
+      "remarque": "Vis tête hexagonale inox A2 M12x50, boîte de 50. Référence déduite de la désignation (TH = tête hexagonale)."
+    },
+    {
+      "texte_original": "4 tendeurs à lanterne M12",
+      "reference": null,
+      "quantite": 4,
+      "confiance": 0.0,
+      "remarque": "Article introuvable dans le catalogue."
+    }
+  ],
+  "a_valider": true,
+  "motif": "Le tendeur à lanterne M12 (4 unités) n'existe pas dans le catalogue : à identifier ou à faire confirmer par le client. Les deux autres lignes sont claires."
+}

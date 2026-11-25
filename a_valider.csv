@@ -1,0 +1,5 @@
+fichier,motifs
+email_27.txt,Quantité manquante pour les gants nitrile taille 9 (GAN-NIT-T9). | quantité douteuse : et aussi des gants nitrile taille 9
+email_28.txt,La ligne « 4 tendeurs à lanterne M12 » ne correspond à aucun article du catalogue. Merci de confirmer l'article souhaité auprès du client. | référence inconnue : 4 tendeurs à lanterne M12 | confiance faible : 4 tendeurs à lanterne M12
+email_29.txt,aucune ligne de commande | Commande non détaillée : le client demande « même commande que la dernière fois » sans indiquer de références ni de quantités. Livraison demandée pour vendredi 20 novembre 2026. Il faut retrouver la dernière commande de Peinture et Décor Hamel (Claire Hamel) pour saisir les lignes.
+email_30.txt,"La ligne des écrous M10 est ambiguë : le client n'a pas précisé s'il souhaite des écrous zingués (ECR-ZN-M10) ou inox A2 (ECR-A2-M10). Quantité de 6 boîtes indiquée, livraison demandée le 23/11/2026. | référence inconnue : écrous M10 : 6 boîtes | confiance faible : écrous M10 : 6 boîtes"

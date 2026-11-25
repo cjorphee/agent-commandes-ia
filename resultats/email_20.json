@@ -1,0 +1,28 @@
+{
+  "date_livraison": "2026-11-16",
+  "lignes": [
+    {
+      "texte_original": "7 boites disques 125 acier",
+      "reference": "DIS-ACI-125",
+      "quantite": 7,
+      "confiance": 0.9,
+      "remarque": "Disque à tronçonner acier Ø125 mm, seule référence correspondant au produit et au format demandés."
+    },
+    {
+      "texte_original": "7 boites écrous zingués M4",
+      "reference": "ECR-ZN-M4",
+      "quantite": 7,
+      "confiance": 0.9,
+      "remarque": "Écrou hexagonal acier zingué M4, seule référence correspondant à la demande."
+    },
+    {
+      "texte_original": "8 foret à béton 8 mm",
+      "reference": "FOR-BET-8",
+      "quantite": 8,
+      "confiance": 0.9,
+      "remarque": "Foret béton SDS-plus Ø8 mm, seule référence correspondant au produit et au diamètre demandés. Quantité exprimée en pièces, unité de vente du catalogue."
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

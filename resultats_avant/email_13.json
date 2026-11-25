@@ -1,0 +1,21 @@
+{
+  "date_livraison": "2026-11-16",
+  "lignes": [
+    {
+      "texte_original": "vis à bois 5x40 : 6 boîtes",
+      "reference": "VBT-5x40",
+      "quantite": 6,
+      "confiance": 0.8,
+      "remarque": "Référence déduite de la désignation : seule vis à bois 5x40 du catalogue"
+    },
+    {
+      "texte_original": "chaussures S3 du 39 : 1 paire",
+      "reference": "CHS-S3-P39",
+      "quantite": 1,
+      "confiance": 0.9,
+      "remarque": "Référence déduite de la désignation : chaussures S3 pointure 39"
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}

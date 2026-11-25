@@ -1,0 +1,42 @@
+{
+  "date_livraison": "2026-11-19",
+  "lignes": [
+    {
+      "texte_original": "1 silicone noir",
+      "reference": "SIL-NOI",
+      "quantite": 1,
+      "confiance": 0.8,
+      "remarque": null
+    },
+    {
+      "texte_original": "1 mètre ruban 5 m",
+      "reference": "OUT-MET5",
+      "quantite": 1,
+      "confiance": 0.9,
+      "remarque": null
+    },
+    {
+      "texte_original": "5 paires gants anti-coupure T9",
+      "reference": "GAN-COU-T9",
+      "quantite": 5,
+      "confiance": 0.9,
+      "remarque": null
+    },
+    {
+      "texte_original": "5 boites vis CHC M5x25",
+      "reference": "CHC-88-M5x25",
+      "quantite": 5,
+      "confiance": 0.9,
+      "remarque": null
+    },
+    {
+      "texte_original": "3 boites vis agglo 6 x 50",
+      "reference": null,
+      "quantite": 3,
+      "confiance": 0.2,
+      "remarque": "Aucune vis agglo dans le catalogue. Le seul candidat proche est VBT-6x50 (vis à bois tête fraisée Torx 6x50), mais ce n'est pas certain. Référence à confirmer avec le client."
+    }
+  ],
+  "a_valider": true,
+  "motif": "La ligne « 3 boites vis agglo 6 x 50 » ne correspond à aucune référence du catalogue. Il faut confirmer le produit avec le client avant de saisir la commande."
+}

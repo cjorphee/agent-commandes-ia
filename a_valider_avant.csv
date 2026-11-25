@@ -1,0 +1,8 @@
+fichier,motifs
+email_15.txt,confiance faible : vis TH inox 8x50 : 1 boîte
+email_16.txt,confiance faible : 9 boites vis agglo 6 x 60
+email_18.txt,La ligne « 3 boites vis agglo 6 x 50 » ne correspond à aucune référence du catalogue. Il faut confirmer le produit avec le client avant de saisir la commande. | référence inconnue : 3 boites vis agglo 6 x 50 | confiance faible : 3 boites vis agglo 6 x 50
+email_27.txt,"Quantité manquante pour les gants nitrile taille 9 (GAN-NIT-T9). Vérifier aussi la correspondance « vis agglo 4 x 30 » avec VBT-4x30, qui est une déduction. | confiance faible : vis agglo 4 x 30 : 3 boîtes | quantité douteuse : et aussi des gants nitrile taille 9"
+email_28.txt,Le tendeur à lanterne M12 (4 unités) n'existe pas dans le catalogue : à identifier ou à faire confirmer par le client. Les deux autres lignes sont claires. | référence inconnue : 4 tendeurs à lanterne M12 | confiance faible : 4 tendeurs à lanterne M12
+email_29.txt,"aucune ligne de commande | La commande n'est pas détaillée : le client renvoie à « la même commande que la dernière fois » sans préciser les articles ni les quantités. Aucun historique de commande n'est fourni. Merci de confirmer le détail des articles et quantités. Date de livraison déduite : vendredi suivant le jeudi 19 novembre 2026, soit le 20 novembre 2026."
+email_30.txt,La ligne « écrous M10 » est ambiguë : le catalogue propose un écrou hexagonal acier zingué (ECR-ZN-M10) et un écrou hexagonal inox A2 (ECR-A2-M10). Le type doit être confirmé avant saisie. | référence inconnue : écrous M10 : 6 boîtes | confiance faible : écrous M10 : 6 boîtes

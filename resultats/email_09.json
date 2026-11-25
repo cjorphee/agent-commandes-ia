@@ -1,0 +1,42 @@
+{
+  "date_livraison": "2026-11-05",
+  "lignes": [
+    {
+      "texte_original": "7 boîtes CHE-EXP-10x80 (Cheville à expansion acier 10x80 mm)",
+      "reference": "CHE-EXP-10x80",
+      "quantite": 7,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "9 boîtes VTH-A2-M12x60 (Vis tête hexagonale inox A2 M12x60)",
+      "reference": "VTH-A2-M12x60",
+      "quantite": 9,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "6 pièces OUT-SER (Serre-joint 300 mm)",
+      "reference": "OUT-SER",
+      "quantite": 6,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "6 boîtes DIS-ACI-125 (Disque à tronçonner acier Ø125 mm)",
+      "reference": "DIS-ACI-125",
+      "quantite": 6,
+      "confiance": 1.0,
+      "remarque": null
+    },
+    {
+      "texte_original": "12 paires CHS-S3-P42 (Chaussures de sécurité S3 pointure 42)",
+      "reference": "CHS-S3-P42",
+      "quantite": 12,
+      "confiance": 1.0,
+      "remarque": null
+    }
+  ],
+  "a_valider": false,
+  "motif": null
+}
